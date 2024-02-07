@@ -1,4 +1,5 @@
 -- Queries used for Tableau Project
+-- Tableau Viz: https://public.tableau.com/app/profile/kbz47/viz/CovidDashboard_17073480840010/Dashboard1?publish=yes
 
 -- 1. 
 
